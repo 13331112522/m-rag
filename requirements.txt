@@ -1,0 +1,12 @@
+ollama
+requests
+imageio[ffmpeg]
+imageio-ffmpeg
+argparse
+glob
+tqdm
+langchain
+dotenv
+json
+typing
+PyMuPDF
